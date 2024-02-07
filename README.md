@@ -44,8 +44,8 @@ Below are some of the links to look for better understanding of api intergration
 
 ## Licence
 
-![Static Badge](https://img.shields.io/badge/licence-purple)
-Copyright (c) 2011-2024 GitHub Inc.
+![Static Badge](https://img.shields.io/badge/licence-purple)<br>
+### Copyright (c) 2011-2024 GitHub Inc.
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
